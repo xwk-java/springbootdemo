@@ -19,7 +19,6 @@ import java.util.Date;
 @AllArgsConstructor
 public class User {
 
-    //sssssssssssss
     private Integer id;
     private String name;
     //返回数据显示的格式
